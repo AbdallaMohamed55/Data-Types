@@ -18,6 +18,6 @@ Use the cout statement to display the values of the variables on the console.
 
 Compile and run the program.
 
-7)Observe the output and note the behavior of different data types.
+Observe the output and note the behavior of different data types.
 
 Conclusion: Through this experiment, the user learned about various data types in C++ and how they are used to store different kinds of data. It also helped understand memory requirements and the importance of selecting the appropriate data type for variables in programs.
